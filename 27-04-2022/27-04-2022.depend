@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651180115 source:c:\users\mariana\documents\programacion\27-04-2022\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
